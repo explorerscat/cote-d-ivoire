@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+.answer-incorrect {
+  background-color: red;
+}
+
+.answer-correct {
+  background-color: limegreen;
+}
